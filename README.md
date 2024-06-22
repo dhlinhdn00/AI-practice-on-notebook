@@ -5,3 +5,4 @@
 4. legal-sum-llm: Legal Summarization LLM On Jupyter Notebook - VJ Work
 5. transformer-basic: Basic Transformer Practice On Colab
 6. jpeg-compression: Basic JPEG Compression On Colab
+7. recors-sum: Voice Recording Summarization On Colab
