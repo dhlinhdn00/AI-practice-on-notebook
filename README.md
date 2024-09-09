@@ -1,3 +1,3 @@
-# AI-Practice-On-Colab-Jupyter
+# AI-practice-on-notebook
 C'est presque devenu un projet, mais pas encore ...
 
